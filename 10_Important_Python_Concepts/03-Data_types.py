@@ -12,7 +12,8 @@ unique1 = {1, 2, 3, 4, 5} # set (unique values)
 persons1 = {'name': 'Mike', 'age': 21} # dictionary (key-value pairs)
 
 
-    # With type annotatios:
+    # With type annotatios (optional):
+    
 number2: int = 21 # integer (whole numbers)
 weight2: float = 89.25 # float (decimal numbers)
 greeting: str = "Hi!" # string (text)
@@ -22,5 +23,4 @@ names2: list = ['Julia', 'Nick'] # list
 coordinates2: tuple = (1.5, 2.5) # tuple (immutable)
 unique1: set = {1, 2, 3, 4, 5, 6, 7} # set (unique values)
 persons2: dict = {'name': 'Jack', 'age': 35} # dictionary (key-value pairs)
-
 

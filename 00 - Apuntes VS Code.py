@@ -9,6 +9,7 @@ APUNTES VS Code
 		SHORTCUTS:
 		
 Save: CTRL + S
+Save ALL: CTRL + K, S
 Execute program: CTRL + F5
 Open Command Panel: SHIFT + CTRL + P
 DUPLICAR línea(S): SHIFT + ALT + ARROW  (Up or Down)
